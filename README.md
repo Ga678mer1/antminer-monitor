@@ -1,5 +1,6 @@
-# Antminer Monitor [![follow on twitter][twitter]](https://twitter.com/intent/follow?screen_name=AntminerMonitor)
+# Antminer Monitor 
 
+![Alt text](/antminermonitor/static/images/screenshot_v0.5.0.png?raw=true "Screenshot v0.5.0")
 Lite Python based Antminer Monitor !!!
 
 - Add as many miners as you want
@@ -10,9 +11,7 @@ Lite Python based Antminer Monitor !!!
 - Display total hashrate grouped by Model
 - Password protected login page
 
-## Screenshot
 
-![Alt text](/antminermonitor/static/images/screenshot_v0.5.0.png?raw=true "Screenshot v0.5.0")
 
 ### Requirements
 
