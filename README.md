@@ -111,31 +111,6 @@ systemctl start antminermonitor
 systemctl enable antminermonitor
 ```
 
-## Donations
 
-- BTC: `1HYCBovF6mqqKMyG4m2DQxXpdKmogK4Wuw`
-- LTC: `LLrjq6nRokS74yPMspitHkXv4nLtEyebNW`
-- DASH: `XuEnZtsCmWcDwKVe82wQddsfwUifXyeRoQ`
-- ETH: `0x5bD8813Da5148fbc841bB18b9411fF72EdC8e10a`
 
-[![paypal]](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2AQ5RDGB5JVLW&source=url)
 
-## Referral
-
-- Get a Ledger Nano S and protect your cryptocurrencies
-
-[![ledger]](https://www.ledgerwallet.com/r/3bf5?path=/products/ledger-nano-s&tracker=AntminerMonitor)
-
-- Listen to your favorite radio stations and earn BRO cryptocurrency !!!
-
-[![bitradio]](http://bitrad.io/?ref=59452)
-
-- Get paid to search
-
-[![presearch]](https://www.presearch.org/signup?rid=113267)
-
-[twitter]: https://img.shields.io/twitter/follow/AntminerMonitor.svg?style=social
-[paypal]: https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif
-[ledger]: https://www.ledgerwallet.com/images/promo/nano-s/ledger_nano-s_7-2-8x9-0.jpg
-[bitradio]: https://bitrad.io/images/BRO728x90.gif
-[presearch]: https://www.presearch.org/images/rf/ban-4.jpg
