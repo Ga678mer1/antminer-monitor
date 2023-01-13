@@ -110,6 +110,18 @@ systemctl start antminermonitor
 systemctl enable antminermonitor
 ```
 
+# Using BTC Tools To Do Miners' Batch Management
 
+BTC Tools is a batch management tool for your miners. The latest version for windows can be downloaded here,(Click for Linux version)  
 
+BTC Tools introduces the following features:
++ Scanning the miners belonging to multiple network segments in the LAN. Displaying the primary information of the miners, such as hash rate, temperature, fan speed, pool, worker name, etc.
++ Sorting miners by each field,such as hash rate, temperature, worker name, etc. You can easily find out the abnormal miners with low hash rate or high temperature ,etc.
++ With the feature called "Monitor Miners", BTC Tools can continually refresh miners' information. You can find the non-normal miners quickly that combine the feature with sorting.
++ Batch configuring your miners with their pools, worker names (sub-account.miner-postfix) and passwords or mining difficulty. You can configure all miners or only your selected miners.
++ Batch rebooting miners. You can reboot all miners or only your selected miners.
+(New) Batch updating firmware to all or selected miners.
+(New) Batch controlling miner's power consumption in LPM or  Enhanced LPM (only suits for  Antminer firmware which has "Low Power Mode" & "Low Power Enhanced Mode" options on configuration page )
+(New) Batch controlling miner's frequency in Overclock or Underclock Mode( Only availabe for Antminer firmware with "Mode" or "Work Mode" droplist on configuration page)
++ Supporting most of Antminers and a part of the Avalon miners, including AntminerS17,T17, S9, S7, T9, etc., and AvalonA8, A7, A6 series, etc. (Rebooting feature is available only with Antminers, scanning and configuration are available with both Antminers and Avalon Miners.)
 
